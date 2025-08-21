@@ -91,7 +91,4 @@ The dashboard will be available at [http://localhost:8501](http://localhost:8501
 This tool provides **supportive guidance only**.
 It **does not replace professional medical advice**.
 Always consult qualified healthcare providers for health decisions.
-  
 
-Do you want me to do that next?
-```
